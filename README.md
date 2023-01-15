@@ -43,7 +43,7 @@ Alerts из Prometheus в статусе Fireing:
 ![img](https://github.com/smutosey/9-05-prometheus-p2/blob/main/img/03-1.png)
 
 Список таргетов в Prometheus: 
-![img](https://github.com/smutosey/9-05-prometheus-p2/blob/main/img/03-1.png)
+![img](https://github.com/smutosey/9-05-prometheus-p2/blob/main/img/03-2.png)
 
 ---
 
